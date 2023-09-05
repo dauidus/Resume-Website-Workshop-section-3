@@ -190,7 +190,7 @@
 		/* Profile Section */
 	/*-------------------------------------------------------*/
     #profile {
-		background:/*mainColor*/#eeb0ec; 
+		background:/*mainColor*/#f4fd77; 
 		background-image:url(../images/header-shadow.png);
 		background-position:center bottom;
 		background-repeat:repeat-x;
@@ -216,7 +216,7 @@
 	}
 	.about h1 {
 		font-weight:900;
-		color:#FFF;
+		color:#000000;
 		line-height:21px;
 		font-size: 23px;
 		margin-top:8px;
@@ -224,7 +224,7 @@
 	.about h3 {
 		margin-top:5px;
 		font-size:18px;
-		color:#FFF;
+		color:#000000;
 		line-height:18px;
 	}
 	.about h4 {
@@ -350,7 +350,7 @@
 	  background: url(../images/tab-hover.png) no-repeat;
 	}
 	.tabs li.active a {
-	  color: #eeb0ec;
+	  color: #a79c3e;
 	}
 
 	.next,.prev {
